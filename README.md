@@ -3,8 +3,6 @@ This app scrapes the data on Kijiji real estate listings and plots them on a map
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
 You will need to create google cloud console account and enable the geomaps API, to do that go to https://console.cloud.google.com/. You will get a free $400 of credit upon signing up.
