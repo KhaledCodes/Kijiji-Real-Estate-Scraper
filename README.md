@@ -24,5 +24,11 @@ You will also need to download the webdriver binary and place it in your system 
 
 After you install all the modules you need, you can set the minimum and maximum price of the real estate you are looking for. The default
 parameters in the URL are set for unfurnished room rentals and roommates in the City of Toronto with a minimum of 1 image in the listing, however you can set the parameters to whatever you like by changing the URL.
-If you have any questions on how you can do that, feel free to send me an email.
+If you have any questions on how you can do that, feel free to send me an email and I will help you find the right URL.
+
+After you've run the ipynb file, you will have a json text. You will need to copy that text and paste it in https://www.freeformatter.com/json-escape.html. Press unescape then copy and paste the text to the data.js file in the repo, assigning it to a variable called data.
+
+After that you can run a live server and you will have your interactive map! 
+
+![Demo](images/demo.gif)
 
