@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 You will need to create google cloud console account and enable the geomaps API, to do that go to https://console.cloud.google.com/. You will get a free $400 of credit upon signing up.
 
-Additionally, to plot the data on the map you will need a mapbox api key and you can get that by signing up at mapbox.com.
+Additionally, to plot the data on the map you will need a mapbox api key and you can get that by signing up at [mapbox.com](https://www.mapbox.com/).
 
 ### Installing
 
@@ -32,3 +32,6 @@ After that you can run a live server and you will have your interactive map!
 
 ![Demo](images/demo.gif)
 
+## Feedback and Contributing
+
+Please contact me if you have any feedback or would like to contribute to this project. Both are appreciated!
