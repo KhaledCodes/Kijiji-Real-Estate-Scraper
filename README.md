@@ -34,4 +34,4 @@ After that you can run a live server and you will have your interactive map!
 
 ## Feedback and Contributing
 
-Please contact me if you have any feedback or would like to contribute to this project. Both are appreciated!
+Please contact me on my [email](mailto:kalkhtb@gmail.com) if you have any feedback or would like to contribute to this project. Both are appreciated!
